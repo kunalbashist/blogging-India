@@ -1,0 +1,29 @@
+.kunal img{
+    width: 200px; height: 200px;
+    margin: auto;
+    display: block;
+}
+
+.chandani img{
+    width: 200px; height: 200px;
+    margin: auto;
+    display: block;
+}
+
+.abhinav img{
+    width: 200px; height: 200px;
+    margin: auto;
+    display: block;
+}
+
+.kunal h1{
+    color: aliceblue;
+}
+
+.chandani h1{
+    color: aliceblue;
+}
+
+.abhinav h1{
+    color: aliceblue;
+}

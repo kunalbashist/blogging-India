@@ -1,0 +1,80 @@
+
+  .writeImg {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width: 450px;
+    height: 300px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  .Message {
+    height: auto;
+    width :auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+        rgba(49, 214, 43, 0.5),
+        rgba(49, 221, 121, 0.5)
+      ),
+      ;
+      background-color: navajowhite;
+      
+    background-size: cover;
+  }
+  
+  .MessageTitle {
+    font-size: 50px;
+  }
+  
+  .MessageForm {
+    margin-top: 20px; width:360px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .MessageForm > label {
+    margin: 10px 0;
+  }
+  
+  
+
+  .MessageInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+  }
+  .MessageBox { 
+    
+    height: 100px;
+    
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .MessageInput:focus {
+    outline: none;
+  }
+  
+  .MessageBox:focus {
+    outline: none;
+  }
+  .MessageButton {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+  }
+  

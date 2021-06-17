@@ -1,0 +1,44 @@
+body{
+	background: #1c2237;
+ }
+ 
+ .box{
+	width: 500px;
+	margin: 100px auto;
+	background: #fff;
+	border-radius: 7px;
+	box-shadow: 1px 2px 4px rgba(0,0,0,.3);
+ }
+ 
+ .box .heading{
+	background: #7800CF;
+	border-radius: 7px 7px 0px 0px;
+	padding: 10px;
+	color: #fff;
+	text-align: center;
+	font-family :Georgia, 'Times New Roman', Times, serif; }
+ 
+ .faqs{
+	padding: 0px 20px 20px;
+ }
+ 
+ ::-webkit-details-marker{
+	float: right;
+	margin-top: 3px;
+ }
+ 
+ details{
+	background: #f6f6f6;
+	padding: 10px 20px;
+	border-radius: 7px;
+	margin-top: 20px;
+	font-family :Georgia, 'Times New Roman', Times, serif;;
+	font-size: 14px;
+	letter-spacing: 1px;
+	cursor: pointer;
+ }
+ 
+ details summary{
+	outline: none;
+ }
+ 
