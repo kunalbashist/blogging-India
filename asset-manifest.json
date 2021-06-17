@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blogging-India/static/css/main.be07a737.chunk.css",
+    "main.js": "/blogging-India/static/js/main.57410b8c.chunk.js",
+    "main.js.map": "/blogging-India/static/js/main.57410b8c.chunk.js.map",
+    "runtime-main.js": "/blogging-India/static/js/runtime-main.667270f1.js",
+    "runtime-main.js.map": "/blogging-India/static/js/runtime-main.667270f1.js.map",
+    "static/css/2.5c166b90.chunk.css": "/blogging-India/static/css/2.5c166b90.chunk.css",
+    "static/js/2.6cbcc488.chunk.js": "/blogging-India/static/js/2.6cbcc488.chunk.js",
+    "static/js/2.6cbcc488.chunk.js.map": "/blogging-India/static/js/2.6cbcc488.chunk.js.map",
+    "index.html": "/blogging-India/index.html",
+    "static/css/2.5c166b90.chunk.css.map": "/blogging-India/static/css/2.5c166b90.chunk.css.map",
+    "static/css/main.be07a737.chunk.css.map": "/blogging-India/static/css/main.be07a737.chunk.css.map",
+    "static/js/2.6cbcc488.chunk.js.LICENSE.txt": "/blogging-India/static/js/2.6cbcc488.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.667270f1.js",
+    "static/css/2.5c166b90.chunk.css",
+    "static/js/2.6cbcc488.chunk.js",
+    "static/css/main.be07a737.chunk.css",
+    "static/js/main.57410b8c.chunk.js"
+  ]
+}
