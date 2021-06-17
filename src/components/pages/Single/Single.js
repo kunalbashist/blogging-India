@@ -13,9 +13,7 @@ function single() {
             <div className="kunal ma4 mh4 bg-dark dib pa2 pv3">
               <h1 className="blo">Title</h1> 
               <p>Description
-                  jhgskjfhgskjgh
-                  fdjkhkdslfjgkdjf
-                  kdfsgkdsfj</p>           
+                  about the blog is to be found here</p>           
             </div>
             </div>
         </div>
